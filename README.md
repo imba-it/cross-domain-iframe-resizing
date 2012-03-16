@@ -1,6 +1,4 @@
-JQuery Plugin for cross domain iframe resizing
-==============================================
+Cross-Domain Iframe Resizing
+============================
 
-what does it do?
-
-how does it work?
+This example covers how to resize an Iframe based on it's content.
